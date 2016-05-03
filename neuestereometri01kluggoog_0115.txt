@@ -1,0 +1,41 @@
+wwwuwwwwwww
+
+Amnerkungen.
+
+Vorbemerkung. Eine Lebensbesohreibung Keplers findet
+der Leser im 144. Heft dor »Klassike1·‹. Einen vortrefflichen
+Kommentar zur »Fassreohnung‹ hat Msch in der Gesamtaus-
+gabe von Keplers Werken in Band IV der ›stereometria
+doliorum< angebangt3 derselbe „enthffilt neben zahlxoichen
+historischen Anmerkungen und Ausserungen zeitgenbssisoher
+Mathematiker auoh einen Auszug aus Psleiderers oben erwfihnter
+Dissertation‚ ist aber im folgenden nur an sehr vereinzelten
+
+Stollen benutzt.
+
+1) M S. 4. LekrS. 15. Setzt man AD =·r, ID = h,
+SR=oe, IK= SK= ρ, und
+bedentet Vden Inhalt der Kugel,
+
+V1 das Volumen der Kalotte
+ΒΗΚ, V, das von HKL, so ist
+V4: ῖῙ---ΙιΞ (3r-h):4r³.
+fnhrt man die Grbsse ω ein, so
+wirdSK²=Q²=2r w:
+
+h (2r - h) und damit
+1⁷4:V=h(h÷2ae):4r².
+
+2) ms. 4. Leman. Denkt '¹
+man sich in Fig. ὅ S. 21 den
+Huf MN DS in unendlich dimne
+Sehnitte parallel zu DS zerlegt,
+so erhisst man durnh Integration
+fflr den Inhalt des Huses, wenn
+AF=A, FD=r,AM=12 und
+SD :h gesetzt wird:
+
+V‚= gg—A) (ν’ - A') {ffl- r—hj-lſj. Segm. (MND) oder
+
+ 
+

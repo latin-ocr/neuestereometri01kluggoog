@@ -1,0 +1,52 @@
+stereometrie dor Fiisser. 63
+
+Gegeben sei ‹ler Zylinder A G ΟΧ Figur 12 mit dem Durob-
+messer 06 und der ΗὸΙιο GA und der Diagonalo AO, semer der
+Durohmesser der Grundflssche des Stumpfes 0T3 οι sei weiter
+das Verhaltnis von OG zu OT kleiner als das der Summe
+von 06 und (ΞΑ zu CA. Gesuoht wird dio Seite des Stumpfes
+und der Durchmesser der grbssoren Gmndfla'che. Es mbge
+sich 0 G zu (ΞΑ verhalten wie GT zu einer gewissen Strecke,
+beispielsweise TA, und es werde fiber CA mit den Seiten
+0 T und AT ein Dreieck erriohtet. Weil nun das Verhiiltnis
+der Summe von 06 und &A zu CA griisser ist als das von
+
+Ο G zu OT, so ist οι auch grbsser als GA zu AT, und wenn .
+
+man die Glieder addiert, so wird das Verhstltnis der Summe
+von 06 und'AG zu CA grbsser als das der Summen von
+OG und AG zu der von GT und AT. Da also GTundAT
+zusammen grbsser sind als CA, so wird man aus OTund AT
+iiber CA ein Dreieck bilden kbnnen. Legt man abor durch
+die Punkte 0, T, A einen Κιοὶι, und zieht man von Oaus
+die mit TA gleiohe Sehne GV, ιο behaupte ich, dass TA und
+0 V die Seiten ᾱοι konjugierten Stumpfes und A V der Duroh·
+messer seiner gr6sseren Grundflaehe ist.
+
+Verbindet man (lie Punkte Tund V, so werden, da TA
+und OV gleieh sind und zu dem gemeinsamen Bogen T 0 die
+Bogen TA und OV hinzukommen, auch die Bogen AO und
+TV und daher auch die ihnon unterspannten Sehnen AG und
+TV gleioh, und der Winkel AT 0 ist ιο gross wie der Winkel
+VO T; die vierseitige Figur ATOV ist dem Kreise einge-
+schrieben und regelmffissig, die Diagonale AO oder TV ist mit
+der des Parallelogramms AGOX gleich‚ und 0 T verhAlt sich
+zu TA, wie (30 zu GA. Daher sind der Stumpf mit dem
+Sohnitt ATU V und der Zylinder mit dem Sehnitt AGOX
+konJugieA.
+
+Lehrsatz VH. Wenn ein Zylinder und ein Kegel-
+stumpf konjugiert sind, und wenn die Differenz der·
+Durohmessor des Stumpfes im Verhfiltnis der Quad-
+rato des Dutchmessers und der Ηόὴο des Zylinders
+geteilt wird, ιο ist das Quadrat des Zylinderduroh·
+messers gleieh dem Rechteok aus dem kleineren
+Durohmesser des Stumpfes und einer snecko, die
+sich aus dem Durohmesser der kleineren Basis und
+dem dem Zylinderdurohmosser entspreohenden Teil
+der Differenz zusammensetzt.
+
+Es seiAGGXFigur12 ein Sohnitt des Zylinders mit der
+
+ 
+

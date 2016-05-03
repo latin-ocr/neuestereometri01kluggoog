@@ -1,0 +1,47 @@
+’ stereometrie der Fsssser.
+
+[manzano zu Archimedes.
+
+stereometrie ιιι ιιι Κοιιὶιιι ιιι spharoiflen ιιι
+ιιιιιῖιι ιίιιιιιιι Komar.
+
+Soweit sind Archimedes und die alten Geometer gelangt
+bei der Untersuchung der Natur und der Abmessungen der
+gerad- und krummlinigen regelmflssigen Figuren und der von
+ihnen zuniiohst erzeugten K6rper. Weil die Fassfigur von den
+regelmssissigen Figuren starker abweioht, habe ioh es fur lohnend
+erachtet, die Entstehung der Fassfigur und ve1·wandterK6rper
+sowie die Sohritte zu ihrer Erkenntnis mit den regulfiren
+Kbrpern gewissermassen auf derselben Tafel darzustellen, zum
+Teil, um die folgenden Untersuchungen lichtvoller zu gestalten,
+daun auch, um den Eifer der jetzigen Geometer anzustaeheln
+und naoh Er6ffnung eines weiten geometrischen Gebietos zu
+
+zeigen, was bis jetzt noch darauf zu bearbeiten und zu unter-
+suohen bleibt.³J
+
+Die Kegelschnitte als Erzeugende von Kiirpern.
+
+Es gibt vier Arten von krummlinigen Kegelschnitten‚ die
+die zu betraohtenden Kbrper erzeugen. In der Figur sind sie
+zur gegenseitigen Vergleichung dargestellt. Jeder Kegelsohnitt
+ist entweder ein Kreis GFE, oder eine Parabel PCQ, oder
+eine Hyperbel M CN, oder endlioh eine Ellipse CHI.
+
+Der Einfaehheit halber stellen wir folgende Ordnung auf:
+1) limis, 2) Ellipse, 3) Parabel‚ 4) Hyperbol. Von diesen
+kehren zwei, Kseis und Ellip'se, in sich zurilok3 die beiden
+andern stimmen darin fiberein, dass sio, insUnendliohe,f01t-
+gesem, einen immer grflsser werdenden Zwisohenraum umfassen‚
+wobei sie sich einer Geraden unendlieh mihern, ohne sio Jemals
+zu erreichen. Sie unterseheiden sich darin voneinander‚ dass
+die Parabelfiste ΟΡ, 00 zu einer Geraden 01 und ferner
+auch zueinander immet mehr parallel werden, obgleich ein
+unendlich grosser Zwischenraum zwisehen ihnen liegt. Die
+Hyperbelstste schliessen sich dagegen immet mehr dem Zuge
+zweier divergierender Geraden RY und ΗΖ an, denen sie
+sich unendlioh nahem, ohne sie jemals zu heriman, weshalb
+diese Goraden RY und ΕΖ Asymptoten genannt werden.
+
+ 
+
